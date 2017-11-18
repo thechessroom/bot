@@ -6,8 +6,6 @@ module.exports = (message) => {
   const parsedMsg = message.content.replace('!puzzlesolution ', '');
   let solution = "";
 
-  console.log(parsedMsg);
-
   puzzles.forEach((puzzle) => {
     if(puzzle.id === parsedMsg) {
       solution = puzzle.solution;
