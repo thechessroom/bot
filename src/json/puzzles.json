@@ -1,0 +1,27 @@
+[
+
+  {
+    "id": "1",
+    "description": "Black to move and win.",
+    "whitePlayer": "Glenn Gaasland",
+    "blackPlayer": "Magnus Carlsen",
+    "location": "Norway",
+    "year": "2001",
+    "toMove": "Black",
+    "solution": "...Ne3 Rxd8+ Rxd8 Qe2 Rd1+",
+    "FEN": "2rr2k1/pb3pp1/4q2p/2pn4/2Q1P3/P4P2/1P3BPP/2KR2NR b - - 0 1",
+    "urlSlug": "2rr2k1/pb3pp1/4q2p/2pn4/2Q1P3/P4P2/1P3BPP/2KR2NR"
+  },
+  {
+    "id": "2",
+    "description": "Black to move and win.",
+    "whitePlayer": "Christian Aarefjord",
+    "blackPlayer": "Magnus Carlsen",
+    "location": "Oslo",
+    "year": "2001",
+    "toMove": "Black",
+    "solution": "...Qe6 Bf2 Nd6",
+    "FEN": "r4rk1/pp4pp/5pn1/3q1R2/2nP2N1/2P1B3/P1Q3PP/R5K1 b - - 0 1",
+    "urlSlug": "r4rk1/pp4pp/5pn1/3q1R2/2nP2N1/2P1B3/P1Q3PP/R5K1"
+  }
+]

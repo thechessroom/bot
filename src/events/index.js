@@ -1,3 +1,4 @@
 module.exports = {
-  ready: require('./ready')
-}
+  ready: require('./ready'),
+  message: require('./message')
+};
