@@ -9,7 +9,7 @@ const sendPuzzle = (opts) => {
   const puzzle = puzzles[Math.floor(Math.random() * puzzles.length)];
 
   const puzzleEmbed = new Discord.RichEmbed()
-    .setAuthor('TheChessRoom')
+    .setAuthor('Daily Puzzle')
     .setTitle(`${puzzle.whitePlayer} vs ${puzzle.blackPlayer}, ${puzzle.location}, ${puzzle.year}`)
     .setColor('#6650FC')
     .setDescription(puzzle.description)
