@@ -5,7 +5,7 @@ const events = require('./src/events');
 const embeds = require('./src/embeds');
 const crons = require('./src/crons');
 
-const auth = require('./authenticate.json');
+const private = require('./private.json');
 
 
-bot.login(auth.token);
+bot.login(private.bot.token);

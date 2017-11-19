@@ -1,3 +1,4 @@
 module.exports = {
-  puzzlesolution: require('./puzzleSolution') // !puzzleSolution ${puzzleId}
+  motifsolution: require('./motifSolution'),    // !motifsolution ${motifId}
+  puzzlesolution: require('./puzzleSolution')   // !puzzleSolution ${puzzleId}
 }
