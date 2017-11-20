@@ -1,2 +1,4 @@
 /node_modules
 private.json
+/src/json/channels.json
+/src/json/roles.json
